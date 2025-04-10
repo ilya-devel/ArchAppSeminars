@@ -1,0 +1,1 @@
+Формы интерфейса: [Figma Link](https://www.figma.com/design/ZGyw0x9y92YdBKbMEqzAiQ/MyDomen?node-id=0-1&m=dev&t=78Atbpu7Sd2bc6m3-1)
